@@ -1,0 +1,5 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AP2007SPER")(type "KiCad")(uri "${KIPRJMOD}/KiCad/AP2007SPER.kicad_sym")(options "")(descr ""))
+  (lib (name "OPA1671")(type "KiCad")(uri "${KIPRJMOD}/KiCad/OPA1671.kicad_sym")(options "")(descr ""))
+)
